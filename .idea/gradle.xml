@@ -12,6 +12,13 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Basic Calculator/task" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Average" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Deposit" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Gold mining" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Multiplication" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Round and power" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Rounding with a given precision" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
