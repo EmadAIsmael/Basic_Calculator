@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/main/Main.kt
+  visible: true
+  text: "suspend fun sendData() {\n    delay(1)\n    println(\"Success!\")\n}\n\n\
+    // fix me, I want to call suspending function\nfun main() {\n    // Call suspending\
+    \ function from the article with following signature:\n    // suspend fun sendData()\n\
+    \tsendData()\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14510#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 09 Aug 2021 09:27:49 UTC
+record: -1
