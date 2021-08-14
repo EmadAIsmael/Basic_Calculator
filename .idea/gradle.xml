@@ -23,6 +23,12 @@
             <option value="$PROJECT_DIR$/Topics/BigDecimal/Theory" />
             <option value="$PROJECT_DIR$/Topics/Bitwise and bit-shift operations/Theory" />
             <option value="$PROJECT_DIR$/Topics/Bitwise and bit-shift operations/Unique number" />
+            <option value="$PROJECT_DIR$/Topics/Mutable list/Initializing a list" />
+            <option value="$PROJECT_DIR$/Topics/Mutable list/Initializing a mutable list of characters" />
+            <option value="$PROJECT_DIR$/Topics/Mutable list/Initializing a mutable list of integers" />
+            <option value="$PROJECT_DIR$/Topics/Mutable list/Initializing a mutable list of longs" />
+            <option value="$PROJECT_DIR$/Topics/Mutable list/Swap" />
+            <option value="$PROJECT_DIR$/Topics/Mutable list/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
