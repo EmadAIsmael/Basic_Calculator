@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Recursion-Programming_a_recursive_function__calculating_the_sum_of_numbers_from_1_to_n" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Recursion/Programming a recursive function  calculating the sum of numbers from 1 to n." external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Basic_Calculator" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILDABLE" value="false" />
+      </configuration>
+    </facet>
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":Topics-Recursion-Programming_a_recursive_function__calculating_the_sum_of_numbers_from_1_to_n" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_KNOWN_AGP_VERSION" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Recursion/Programming a recursive function  calculating the sum of numbers from 1 to n./out/production/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Recursion/Programming a recursive function  calculating the sum of numbers from 1 to n./out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Recursion/Programming a recursive function  calculating the sum of numbers from 1 to n.">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Recursion/Programming a recursive function  calculating the sum of numbers from 1 to n./.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Recursion/Programming a recursive function  calculating the sum of numbers from 1 to n./build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Recursion/Programming a recursive function  calculating the sum of numbers from 1 to n./out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

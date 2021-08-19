@@ -3,3 +3,11 @@ content:
 - Asynchronous programming techniques & problems
 - Bitwise and bit-shift operations
 - Mutable list
+- Debugging techniques
+- Image colors
+- Regexps in use
+- Recursion
+- Hierarchy of exceptions
+- Work with MutableLists
+- Lazy initialization
+- Nested and inner classes
