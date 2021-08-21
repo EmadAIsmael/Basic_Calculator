@@ -11,3 +11,6 @@ content:
 - Work with MutableLists
 - Lazy initialization
 - Nested and inner classes
+- Introduction to generic programming
+- For loop and lists
+- Creating custom exceptions

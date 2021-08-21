@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/main/Main.kt
+  visible: true
+  text: aToZ()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15021#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 21 Aug 2021 02:49:23 UTC
+record: -1

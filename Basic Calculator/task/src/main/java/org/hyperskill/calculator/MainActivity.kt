@@ -86,6 +86,7 @@ class MainActivity : AppCompatActivity() {
                                 input = edit.text.toString()
                                 numStack.add(input.toDouble())
                                 edit.setText("")
+                                edit.hint = input
                                 opCode = i
                             }
                         }
@@ -105,6 +106,8 @@ class MainActivity : AppCompatActivity() {
                         Log.i("Result after pressing =", "onCreate: a: $a, b: $b, input: $input")
 
                         opCode = 0
+                        if (input.substringAfter(".").toInt() == 0)
+                            input = input.substringBefore(".")
                         edit.setText(input)
                         equalPressed = true
                     }
@@ -114,6 +117,7 @@ class MainActivity : AppCompatActivity() {
 
         btnClear.setOnClickListener {
             edit.setText("")
+            edit.hint = "0"
             input = ""
         }
     }
